@@ -31,6 +31,7 @@ Please keep the table sorted.
 | Lawrence G. | lgadban | agentgateway | Solo.io |
 | Markus Kobler | markuskobler | agentgateway | Solo.io |
 | Nathan Fudenberg | nfuden | agentgateway | Solo.io |
+| Jackson Greer | jgreeer | agentgateway | Microsoft |
 
 ## Contributors
 
