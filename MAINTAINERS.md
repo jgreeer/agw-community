@@ -32,6 +32,7 @@ Please keep the table sorted.
 | Markus Kobler | markuskobler | agentgateway | Solo.io |
 | Nathan Fudenberg | nfuden | agentgateway | Solo.io |
 | Jackson Greer | jgreeer | agentgateway | Microsoft |
+| Daneyon Hansen | danehans | agentgateway | Solo.io |
 
 ## Contributors
 
