@@ -33,6 +33,7 @@ Please keep the table sorted.
 | Nathan Fudenberg | nfuden | agentgateway | Solo.io |
 | Jackson Greer | jgreeer | agentgateway | Microsoft |
 | Daneyon Hansen | danehans | agentgateway | Solo.io |
+| Jacob Bohanon | jbohanon | agentgateway | Solo.io |
 
 ## Contributors
 
