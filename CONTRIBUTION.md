@@ -25,7 +25,7 @@ We are committed to providing a friendly, safe, and welcoming environment for al
 
 ### Development Environment Setup
 
-See the [DEVELOPMENT.md](DEVELOPMENT.md) file for more information.
+See the [DEVELOPMENT.md](https://github.com/agentgateway/agentgateway/blob/main/DEVELOPMENT.md) file for more information.
 
 ### Making Changes
 
