@@ -34,6 +34,7 @@ Please keep the table sorted.
 | Jackson Greer | jgreeer | agentgateway | Microsoft |
 | Daneyon Hansen | danehans | agentgateway | Solo.io |
 | Jacob Bohanon | jbohanon | agentgateway | Solo.io |
+| Dong Jiang | dongjiang1989 | agentgateway | iFlytek |
 
 ## Contributors
 
